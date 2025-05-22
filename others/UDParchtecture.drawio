@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
+  <diagram name="Page-1" id="fakGPyNyHfFWBglYMShZ">
+    <mxGraphModel dx="2048" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r5eTgkIbRi1amsSdM4TS-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-660" y="-70" width="610" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="AMT_EPx4Zz6R20CNEyEj-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Unreal_Engine_Logo_%28new_typeface%29.svg/1024px-Unreal_Engine_Logo_%28new_typeface%29.svg.png;" parent="1" vertex="1">
+          <mxGeometry x="-570" y="160" width="82.34" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xkl9lNvLfPJpQ_1Gd_s2-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg;" parent="1" vertex="1">
+          <mxGeometry x="-250" y="178.84" width="169.35" height="62.32" as="geometry" />
+        </mxCell>
+        <mxCell id="xkl9lNvLfPJpQ_1Gd_s2-2" value="Sender: UDP Client&lt;div&gt;Port: 8000&lt;/div&gt;&lt;div&gt;Option: Unity&#39;s IP address&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-610" y="90" width="141.17" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xkl9lNvLfPJpQ_1Gd_s2-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="xkl9lNvLfPJpQ_1Gd_s2-2" target="xkl9lNvLfPJpQ_1Gd_s2-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-360" y="330" as="sourcePoint" />
+            <mxPoint x="-310" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xkl9lNvLfPJpQ_1Gd_s2-4" value="Receiver: UDP Server&lt;div&gt;Listen Port: 8000&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xkl9lNvLfPJpQ_1Gd_s2-5" value="Receiver: UDP Server&lt;div&gt;Listen Port: 9000&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-588.83" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xkl9lNvLfPJpQ_1Gd_s2-7" value="Sender: UDP Client&lt;div&gt;Port: 9000&lt;/div&gt;&lt;div&gt;Option: Unreal&#39;s IP address&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="290" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xkl9lNvLfPJpQ_1Gd_s2-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xkl9lNvLfPJpQ_1Gd_s2-7" target="xkl9lNvLfPJpQ_1Gd_s2-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-350" y="240" as="sourcePoint" />
+            <mxPoint x="-300" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xkl9lNvLfPJpQ_1Gd_s2-9" value="Transforming Type: JSON" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-430" y="100" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xkl9lNvLfPJpQ_1Gd_s2-10" value="Transforming Type: JSON" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-430" y="300" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r5eTgkIbRi1amsSdM4TS-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/024/451/314/non_2x/wifi-router-icon-design-template-simple-and-modern-free-vector.jpg;" parent="1" vertex="1">
+          <mxGeometry x="-413" y="-130" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="r5eTgkIbRi1amsSdM4TS-4" value="Local Area Network" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-410.5" y="-20" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KnYUZDsxxv4XInmjogXt-1" value="Actor&#39;s transformation &amp;amp; color" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KnYUZDsxxv4XInmjogXt-2" value="Changes applied by uder" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-432.5" y="320" width="155" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
