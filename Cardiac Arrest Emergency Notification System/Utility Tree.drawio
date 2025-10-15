@@ -1,38 +1,38 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Page-1" id="9c096ad6-e400-ecc8-3e38-643d2caac077">
-    <mxGraphModel dx="1453" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3027" dy="1351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="4BP_KSWarr8-wyomaGcc-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Utility Tree&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4BP_KSWarr8-wyomaGcc-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Availability&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4BP_KSWarr8-wyomaGcc-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Security&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4BP_KSWarr8-wyomaGcc-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Malicious defence&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4BP_KSWarr8-wyomaGcc-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Authentication&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="4BP_KSWarr8-wyomaGcc-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Token-based authentication&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4BP_KSWarr8-wyomaGcc-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Performance&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4BP_KSWarr8-wyomaGcc-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Geofence fetch&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4BP_KSWarr8-wyomaGcc-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Offline tracking&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4BP_KSWarr8-wyomaGcc-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Utility Tree&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="4BP_KSWarr8-wyomaGcc-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Notification latency&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4BP_KSWarr8-wyomaGcc-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Utility Tree&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="820" width="120" height="60" as="geometry" />
+        <mxCell id="4BP_KSWarr8-wyomaGcc-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Communication traffic&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4BP_KSWarr8-wyomaGcc-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4BP_KSWarr8-wyomaGcc-2" target="4BP_KSWarr8-wyomaGcc-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -84,12 +84,12 @@
         </mxCell>
         <mxCell id="4BP_KSWarr8-wyomaGcc-20" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4BP_KSWarr8-wyomaGcc-4" target="4BP_KSWarr8-wyomaGcc-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="850" y="560" as="sourcePoint" />
-            <mxPoint x="900" y="510" as="targetPoint" />
+            <mxPoint x="490" y="510" as="sourcePoint" />
+            <mxPoint x="900" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pmsVyBaMGS5644j-kl5Y-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Reliability&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pmsVyBaMGS5644j-kl5Y-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4BP_KSWarr8-wyomaGcc-2" target="pmsVyBaMGS5644j-kl5Y-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -98,66 +98,66 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pmsVyBaMGS5644j-kl5Y-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Quality Check&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pmsVyBaMGS5644j-kl5Y-4" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="pmsVyBaMGS5644j-kl5Y-3" edge="1">
+        <mxCell id="pmsVyBaMGS5644j-kl5Y-4" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="pmsVyBaMGS5644j-kl5Y-3" edge="1" source="pmsVyBaMGS5644j-kl5Y-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="1030" as="sourcePoint" />
-            <mxPoint x="900" y="750" as="targetPoint" />
+            <mxPoint x="490" y="1070" as="sourcePoint" />
+            <mxPoint x="900" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pmsVyBaMGS5644j-kl5Y-5" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="pmsVyBaMGS5644j-kl5Y-6" edge="1">
+        <mxCell id="pmsVyBaMGS5644j-kl5Y-5" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="pmsVyBaMGS5644j-kl5Y-6" edge="1" source="pmsVyBaMGS5644j-kl5Y-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="1030" as="sourcePoint" />
-            <mxPoint x="900" y="750" as="targetPoint" />
+            <mxPoint x="490" y="1100" as="sourcePoint" />
+            <mxPoint x="900" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pmsVyBaMGS5644j-kl5Y-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Maintenance difficulty&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pmsVyBaMGS5644j-kl5Y-7" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pmsVyBaMGS5644j-kl5Y-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710" y="940" as="sourcePoint" />
-            <mxPoint x="790" y="970" as="targetPoint" />
+            <mxPoint x="710" y="1010" as="sourcePoint" />
+            <mxPoint x="790" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pmsVyBaMGS5644j-kl5Y-8" value="(M, M) CI/CD pipeline is designed easy for changes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="940" width="190" height="60" as="geometry" />
+          <mxGeometry x="790" y="1010" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pmsVyBaMGS5644j-kl5Y-9" value="(M, L) Quality Check will be run to ensure conflicts free" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="1060" width="190" height="60" as="geometry" />
+          <mxGeometry x="790" y="1100" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pmsVyBaMGS5644j-kl5Y-10" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="1090" as="sourcePoint" />
-            <mxPoint x="790" y="1090" as="targetPoint" />
+            <mxPoint x="720" y="1130" as="sourcePoint" />
+            <mxPoint x="790" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pmsVyBaMGS5644j-kl5Y-11" value="(H, M) Malicious request will be detected and rejected" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="460" width="190" height="60" as="geometry" />
+        <mxCell id="pmsVyBaMGS5644j-kl5Y-11" value="(H, H) Malicious request will be detected and rejected within 50 ms" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="790" y="440" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pmsVyBaMGS5644j-kl5Y-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="490" as="sourcePoint" />
-            <mxPoint x="790" y="490" as="targetPoint" />
+            <mxPoint x="720" y="470" as="sourcePoint" />
+            <mxPoint x="790" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="whU8tFgcl_zpzJVHOY4T-1" value="(H, L) Latest info will be kept to provide availability when network is unstable" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="350" width="190" height="60" as="geometry" />
+          <mxGeometry x="790" y="330" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="whU8tFgcl_zpzJVHOY4T-2" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="380" as="sourcePoint" />
-            <mxPoint x="790" y="380" as="targetPoint" />
+            <mxPoint x="720" y="360" as="sourcePoint" />
+            <mxPoint x="790" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="whU8tFgcl_zpzJVHOY4T-3" value="(M, M) A token based authentication is deployed on server to safeguard system security" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="580" width="190" height="60" as="geometry" />
+        <mxCell id="whU8tFgcl_zpzJVHOY4T-3" value="(M, M)&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Mitigate the risk of unauthorised use through centralised authentication and short-lived credentials&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="790" y="530" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="whU8tFgcl_zpzJVHOY4T-4" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="610" as="sourcePoint" />
-            <mxPoint x="790" y="610" as="targetPoint" />
+            <mxPoint x="720" y="560" as="sourcePoint" />
+            <mxPoint x="790" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="whU8tFgcl_zpzJVHOY4T-5" value="(H, M) Keep connection and stay real time location update" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -170,10 +170,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="whU8tFgcl_zpzJVHOY4T-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Notification&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="1179" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="whU8tFgcl_zpzJVHOY4T-8" value="(M, M) Geofence alerts work regardless of network to keep user notified" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="1179" width="190" height="60" as="geometry" />
+          <mxGeometry x="790" y="1190" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="whU8tFgcl_zpzJVHOY4T-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pmsVyBaMGS5644j-kl5Y-1" target="whU8tFgcl_zpzJVHOY4T-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -183,12 +183,102 @@
         </mxCell>
         <mxCell id="whU8tFgcl_zpzJVHOY4T-10" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="1208.5" as="sourcePoint" />
-            <mxPoint x="790" y="1208.5" as="targetPoint" />
+            <mxPoint x="720" y="1219.5" as="sourcePoint" />
+            <mxPoint x="790" y="1219.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QZx2kOIqHWfgxrdoBrp9-1" value="(H,H) : left for priority, right for risk/difficulty" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="820" y="170" width="130" height="30" as="geometry" />
+        <mxCell id="QZx2kOIqHWfgxrdoBrp9-1" value="(H,H) : left for priority, right for risk/difficulty" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="812" y="90" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PhmWpwp3Xf_1sCIiOBXR-2" value="(H, M)&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Delay for events submitted to mobile devices to receive notifications &amp;lt; 3 seconds, mobile device loading of patient location &amp;lt; 1 second&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="720" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PhmWpwp3Xf_1sCIiOBXR-3" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="750" as="sourcePoint" />
+            <mxPoint x="790" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhmWpwp3Xf_1sCIiOBXR-4" value="(H, M)&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;The system must be available at all times to enable immediate handling of urgent incidents&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="150" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PhmWpwp3Xf_1sCIiOBXR-5" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="180" as="sourcePoint" />
+            <mxPoint x="790" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhmWpwp3Xf_1sCIiOBXR-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;24/7 service&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PhmWpwp3Xf_1sCIiOBXR-7" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="PhmWpwp3Xf_1sCIiOBXR-6" parent="1" source="4BP_KSWarr8-wyomaGcc-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="230" as="sourcePoint" />
+            <mxPoint x="900" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhmWpwp3Xf_1sCIiOBXR-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Permission-based data access&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="619.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PhmWpwp3Xf_1sCIiOBXR-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="649.5" as="sourcePoint" />
+            <mxPoint x="790" y="649.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhmWpwp3Xf_1sCIiOBXR-10" value="(M, M)&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Only authorised personnel may submit/modify sensitive data&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="619.5" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PhmWpwp3Xf_1sCIiOBXR-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="PhmWpwp3Xf_1sCIiOBXR-8" parent="1" source="4BP_KSWarr8-wyomaGcc-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="600" as="sourcePoint" />
+            <mxPoint x="900" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhmWpwp3Xf_1sCIiOBXR-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="840" as="sourcePoint" />
+            <mxPoint x="790" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhmWpwp3Xf_1sCIiOBXR-13" value="(H, M)&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Provide real-time event notifications and location updates and using WebSocket to ensure low-latency bidirectional communication&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="810" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PhmWpwp3Xf_1sCIiOBXR-14" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="PhmWpwp3Xf_1sCIiOBXR-15" parent="1" source="4BP_KSWarr8-wyomaGcc-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="870" as="sourcePoint" />
+            <mxPoint x="900" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhmWpwp3Xf_1sCIiOBXR-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Multi-role data synchronisation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PhmWpwp3Xf_1sCIiOBXR-16" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="930" as="sourcePoint" />
+            <mxPoint x="790" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhmWpwp3Xf_1sCIiOBXR-17" value="(H, M)&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Control centres, responders and hospitals can view key data in real time, including patient location, nearby AEDs and ambulance positions.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="900" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PhmWpwp3Xf_1sCIiOBXR-19" value="(M, M)&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Mitigate the risk of stale data during offline periods through periodic synchronisation and data freshness indicators&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1280" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PhmWpwp3Xf_1sCIiOBXR-20" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="1309.5" as="sourcePoint" />
+            <mxPoint x="790" y="1309.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhmWpwp3Xf_1sCIiOBXR-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Stale-data mitigation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PhmWpwp3Xf_1sCIiOBXR-22" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="PhmWpwp3Xf_1sCIiOBXR-21" parent="1" source="pmsVyBaMGS5644j-kl5Y-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="1220" as="sourcePoint" />
+            <mxPoint x="600" y="1240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
